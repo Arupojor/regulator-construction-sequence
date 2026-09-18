@@ -1,0 +1,88 @@
+STAGE 1  SETTING OUT
+Setting out and dewatering
+Centre line and chainage pegs are fixed from the approved layout. A trapezoidal earthen closure is raised across the khal on both sides and the pit is kept dry by pumping for the whole concreting period.
+  - Closure crest above spring high tide, with freeboard
+  - Standby pump and fuel on site before excavation starts
+  - Centre line transferred to permanent reference pillars
+
+STAGE 2  EXCAVATION
+Excavation to foundation level
+The pit is cut to foundation level and the bed dressed and checked. Nothing is laid on the bed yet — pile driving comes next, and the sand filling and blinding follow only once the piles are in.
+  - Founding level checked against the drawing, not by eye
+  - Soft pockets removed and replaced, not covered over
+  - Side slopes stable; no surcharge close to the cut edge
+
+STAGE 3  BEARING PILES
+Bearing piles
+A grid of piles is driven under the floor, piers and abutments to carry the structural load down to firm strata. Their length is set by bearing capcacity of the soil or sub-soil investigation report, They can be cast-insitu or precast, so they run considerably deeper than the cut-off wall that follows.
+  - Termination by set or depth as specified, whichever governs
+  - Driving record kept for every pile, with any redrive noted
+  - Cut-off level and head condition checked before capping
+
+STAGE 4  CUT-OFF WALL
+U-type sheet piles
+A single line of U-type steel sheet piles is driven at each end of the RCC floor to form the cut-off wall. These are interlocking plate sections, not round bearing piles, and they carry no structural load — their depth being set by the seepage check alone. The downstream line is driven deeper than the upstream one, because the exit gradient is critical on the river side. They lengthen the path seepage must travel and hold the exit gradient within safe limits, which is what protects the floor against piping.
+  - Depth as designed from the seepage check, not shortened to suit driving
+  - Interlocks engaged over the full length — one sprung joint defeats the cut-off
+  - Driven true to line before floor concrete, never after
+  - Head left projecting above the blinding, ready to be cast into the floor
+
+STAGE 5  SAND & BLINDING
+Sand filling and CC blinding
+Only once all driving is finished and the pile heads are trimmed to cut-off level is the bed made up: sand filling first, then a lean concrete blinding layer over it, worked around the pile heads and the cut-off wall. This gives the base reinforcement a clean, true bed and stops the earth drawing water out of the base concrete.
+  - Laid after driving is complete — driving over finished blinding breaks it up
+  - Sand filling compacted in layers to the specified thickness
+  - Blinding true to level and set before reinforcement is placed on it
+
+STAGE 6  RCC BASE
+RCC base slab
+The base slab is cast on the blinding, monolithic with the pile heads, at three levels: the country-side apron, the sill floor under the gates, and the depressed stilling basin downstream of the glacis. It is cast over the head of each cut-off wall, so the sheet pile top finishes inside the concrete — shown here in dashed hidden lines. The river-side portion is longer than the country-side portion, because the stilling basin has to contain the hydraulic jump.
+  - Sheet pile heads cleaned and embedded the full designed depth into the floor
+  - Cover to reinforcement maintained on blocks, not pebbles
+  - Construction joints only where shown, with water bars in place
+  - Each bay poured continuously; curing for the full specified period
+
+STAGE 7  PIERS & SILL
+Piers, abutments and sill
+The piers and the abutment walls are built up from the base slab. The gate grooves, the sill beam and the fixings for the gate seals are all formed while this concrete is being cast. They cannot be cut out later, so a mistake made here stays in the structure.
+  - Grooves plumb and to the correct width for the full height
+  - Embedded parts fixed to a template and held tight during the pour
+  - Grooves cleaned out, with no mortar left inside
+  - Use steel shutter for RCC casting; proper curing needed with potable water
+
+STAGE 8  ENERGY WORKS
+Energy dissipation and protection
+Chute blocks are cast at the head of the inclined slab to split and lift the incoming jet. Baffle blocks stand in a transverse row on the flat slab to take out the residual energy, and the end sill closes the basin. The flared wing walls go up at the same time. Each one stops just short of the cut-off line and turns through 90° into a return wall, which is why the return wall appears end-on in this section and face-on in the elevations. Each wing is cast monolithic with the abutment — there is no joint between the wing wall and the box. Beyond the cut-off at each end a toe wall is cast, and the launching apron of CC blocks is laid on an inverted filter out to the end of the wing. The key plan shows the flare and the apron extent.
+  - Chute blocks at the start of the slope, height and spacing as drawn
+  - Baffle row square to flow and clear of the inclined slab toe
+  - Toe wall founded below apron level at the end of the RCC floor
+  - Filter or geotextile laid before CC blocks; apron thickness held to the outer edge
+
+STAGE 9  BRIDGE DECK
+Bridge deck and hoist platform
+Girders are placed across the piers, then the deck slab, the operating platform, hoist supports and railing. The deck gives access across the regulator and carries the hoisting arrangement.
+  - Bearing seating level and clean before girders are placed
+  - Deck level and camber checked against the drawing
+  - Hoist centre line exactly over the gate centre line
+
+STAGE 10  GATES
+Gate installation
+Two gates go into the grooves at each vent. The vertical lift gate on the country side is hoisted from the deck: it is held shut to retain fresh water for irrigation and raised to pass drainage. The flap gate on the river side is top hinged and needs no operator — it swings outward, away from the structure and toward the river.
+  - Seal contact checked all round under a light test head
+  - Lift gate travels free over its full range, both directions
+  - Flap swings without binding; hinge greased and free
+
+STAGE 11  BACKFILL & TRIAL
+Backfilling and trial operation
+Earth is filled behind the wings in compacted layers. The embankment falls away from the deck at 2:1 on the country side and 3:1 on the river side, and beyond each return wall the bank falls to the bed on a 2:1 trapezoidal slope. All of these are pitched, and the pitching on each bank slope runs the same length as the launching blocks laid on the bed beside it.Every gate is trial operated before the closure is cut and the structure handed over. Use the tide control to see how the two gates work together.
+  - Filling in layers of specified thickness, each one compacted
+  - Slopes dressed to 2:1 and 3:1 before pitching is laid
+  - Pitching bedded on a filter, no voids behind walls or under the apron edge
+  - All gates operated and the trial recorded before handover
+
+TIDE LOW
+The river has fallen below the country-side level. The lift gate has been raised from the deck (during the irrigation period gate kept closed to store water for irrigation and during monsoon and non-irrigation period it is raised up), and the internal head swings the flap outward toward the river on its own, so drainage runs out by gravity.
+
+TIDE HIGH
+The river has risen above the country-side level. The tide presses the flap back against its frame and holds it shut, so saline water is kept out. No operator is involved — the head difference does the work.
+
