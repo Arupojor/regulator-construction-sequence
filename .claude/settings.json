@@ -1,0 +1,31 @@
+{
+  "extraKnownMarketplaces": {
+    "karpathy-skills": {
+      "source": { "source": "github", "repo": "multica-ai/andrej-karpathy-skills" }
+    },
+    "ponytail": {
+      "source": { "source": "github", "repo": "DietrichGebert/ponytail" }
+    },
+    "openai-codex": {
+      "source": { "source": "github", "repo": "openai/codex-plugin-cc" }
+    }
+  },
+  "enabledPlugins": {
+    "claude-code-setup@anthropic-plugin-directory": true,
+    "frontend-design@anthropic-plugin-directory": true,
+    "design@anthropic-plugin-directory": true,
+    "claude-security@anthropic-plugin-directory": true,
+    "headroom-large-file-and-log-reader@anthropic-plugin-directory": true,
+    "task-observer-learn-your-preferences@anthropic-plugin-directory": true,
+    "humanizer-blader@anthropic-plugin-directory": true,
+    "geoai-skills@anthropic-plugin-directory": true,
+    "figma@anthropic-plugin-directory": true,
+    "design-skills@anthropic-plugin-directory": true,
+    "superpowers@anthropic-plugin-directory": true,
+    "unslop@anthropic-plugin-directory": true,
+    "code-review-anthropics@anthropic-plugin-directory": true,
+    "andrej-karpathy-skills@karpathy-skills": true,
+    "ponytail@ponytail": true,
+    "codex@openai-codex": true
+  }
+}
