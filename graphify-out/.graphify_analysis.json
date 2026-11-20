@@ -1,0 +1,142 @@
+{
+  "communities": {
+    "0": [
+      "dataclasses",
+      "math",
+      "matplotlib",
+      "matplotlib_backends_backend_pdf",
+      "matplotlib_patches",
+      "matplotlib_pyplot",
+      "os",
+      "regulator",
+      "regulator_canvas",
+      "regulator_p",
+      "regulator_rationale_1",
+      "subprocess"
+    ],
+    "1": [
+      "regulator_params",
+      "regulator_rationale_286",
+      "regulator_regulator",
+      "regulator_regulator_bed",
+      "regulator_regulator_draw",
+      "regulator_regulator_export_frames",
+      "regulator_regulator_export_plates",
+      "regulator_regulator_export_video",
+      "regulator_regulator_init",
+      "regulator_regulator_notes",
+      "regulator_regulator_stations"
+    ],
+    "2": [
+      "regulator_footer",
+      "regulator_lin",
+      "regulator_rationale_533",
+      "regulator_regulator_pile_xs",
+      "regulator_regulator_plan",
+      "regulator_regulator_plan_hw_at",
+      "regulator_regulator_poly",
+      "regulator_regulator_rect",
+      "regulator_regulator_section",
+      "regulator_seq"
+    ],
+    "3": [
+      "regulator_rationale_316",
+      "regulator_regulator_batter",
+      "regulator_regulator_elevation",
+      "regulator_regulator_vent_bands",
+      "regulator_regulator_wall_bands",
+      "regulator_regulator_width"
+    ],
+    "4": [
+      "regulator_halo",
+      "regulator_regulator_lead",
+      "regulator_regulator_section_labels",
+      "regulator_regulator_section_labels_el",
+      "regulator_regulator_txt"
+    ],
+    "5": [
+      "mcp",
+      "mcp_command_npx",
+      "mcp_mcp_server_chrome_devtools",
+      "mcp_mcp_server_rea"
+    ]
+  },
+  "cohesion": {
+    "0": 0.18181818181818182,
+    "1": 0.2545454545454545,
+    "2": 0.28888888888888886,
+    "3": 0.4666666666666667,
+    "4": 0.5,
+    "5": 0.6666666666666666
+  },
+  "gods": [
+    {
+      "id": "regulator_regulator",
+      "label": "Regulator",
+      "degree": 22
+    },
+    {
+      "id": "regulator_canvas",
+      "label": "_canvas()",
+      "degree": 5
+    },
+    {
+      "id": "regulator_footer",
+      "label": "_footer()",
+      "degree": 4
+    },
+    {
+      "id": "regulator_seq",
+      "label": "_seq()",
+      "degree": 4
+    },
+    {
+      "id": "regulator_lin",
+      "label": "_lin()",
+      "degree": 3
+    },
+    {
+      "id": "regulator_params",
+      "label": "Params",
+      "degree": 2
+    },
+    {
+      "id": "regulator_halo",
+      "label": "_halo()",
+      "degree": 2
+    },
+    {
+      "id": "regulator_regulator_section_labels_el",
+      "label": "el()",
+      "degree": 2
+    },
+    {
+      "id": "mcp_command_npx",
+      "label": "npx",
+      "degree": 2
+    },
+    {
+      "id": "mcp_mcp_server_chrome_devtools",
+      "label": "chrome-devtools",
+      "degree": 2
+    }
+  ],
+  "surprises": [],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `Regulator` connect `Regulator Model and Export` to `Drawing Script Dependencies`, `Plan and Section Drawing`, `Elevation Slopes and Bands`, `Text Labels and Annotations`?",
+      "why": "High betweenness centrality (0.460) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `_canvas()` connect `Drawing Script Dependencies` to `Plan and Section Drawing`, `Elevation Slopes and Bands`?",
+      "why": "High betweenness centrality (0.021) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `_footer()` connect `Plan and Section Drawing` to `Drawing Script Dependencies`, `Elevation Slopes and Bands`?",
+      "why": "High betweenness centrality (0.009) - this node is a cross-community bridge."
+    }
+  ]
+}
