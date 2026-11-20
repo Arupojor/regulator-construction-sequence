@@ -25,6 +25,7 @@
     "unslop@anthropic-plugin-directory": true,
     "code-review-anthropics@anthropic-plugin-directory": true,
     "advisory-council@anthropic-plugin-directory": true,
+    "skills-for-real-engineers@anthropic-plugin-directory": true,
     "andrej-karpathy-skills@karpathy-skills": true,
     "ponytail@ponytail": true,
     "codex@openai-codex": true
